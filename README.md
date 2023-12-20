@@ -65,7 +65,7 @@ Execute the code
             
         }
         .pub{
-            color:blue;
+            color:rgb(240, 47, 13);
             font-size: medium;
             position: relative;
             top:155px;
