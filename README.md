@@ -131,7 +131,6 @@ Execute the code
     </body>
 </html>
 ```
-
 ## Output:
 ![output](./output.png)
 
